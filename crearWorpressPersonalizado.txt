@@ -1,0 +1,37 @@
+<--Estructura Inicial>
+024 Carpetas-del-CMS-WordPress
+https://codex.wordpress.org/WordPress_Files
+
+025 Theme-Stylesheet
+https://codex.wordpress.org/Theme_Development
+
+026 get-bloginfo
+https://developer.wordpress.org/reference/functions/get_bloginfo/
+
+<--Consultas ala BD y Funcionalidad-->
+027 WP-Query
+https://developer.wordpress.org/reference/classes/wp_query/
+
+028 the-excerpt
+https://developer.wordpress.org/reference/functions/the_excerpt/
+
+028 the-post-thumbnail
+https://developer.wordpress.org/reference/functions/the_post_thumbnail/
+
+028 the-content
+https://developer.wordpress.org/reference/functions/the_content/
+
+028 the-id
+https://developer.wordpress.org/reference/functions/the_id/
+
+029 after-setup-theme
+https://codex.wordpress.org/Plugin_API/Action_Reference/after_setup_theme
+
+030 wp-nav-menu
+https://developer.wordpress.org/reference/functions/wp_nav_menu/
+
+032 wp-enqueue-scrip
+https://developer.wordpress.org/reference/functions/wp_enqueue_script/
+
+032 wp-enqueue-style
+https://developer.wordpress.org/reference/functions/wp_enqueue_style/
